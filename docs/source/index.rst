@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+MB66 - Trang Chủ Chính Thức Nhà Cái MB66.COM T12/2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`MB66 <https://mb66.cx/>`_ là sân chơi trực tuyến được cấp phép bởi Isle of Man, nổi bật với giao diện thân thiện và đa dạng trò chơi giải trí như casino, thể thao, xổ số, bắn cá, và đá gà. Với nhiều khuyến mãi hấp dẫn, dịch vụ nạp tiền an toàn, hỗ trợ khách hàng 24/7, MB66 luôn mang đến trải nghiệm tuyệt vời, minh bạch và đáng tin cậy cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết: 
 
-.. note::
+Website: https://mb66.cx/
 
-   This project is under active development.
+Địa chỉ: 698 Lê Văn Khương, Thới An, Quận 12, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Mail: mb66.cx@gmail.com
 
-.. toctree::
+SĐT: 0358739247
 
-   usage
-   api
+#mb66 #mb66cx #mb66com #linkmb66
